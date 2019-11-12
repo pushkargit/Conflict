@@ -6,7 +6,7 @@ public class Hello {
 		System.out.println("Hello");
 		System.out.println("adding master");
 		System.out.println(1);
-		
+		System.out.println(2);		
 
 	}
 
