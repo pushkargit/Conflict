@@ -10,6 +10,7 @@ public class Hello {
 		System.out.println(3);
 		System.out.println("apple");
 		System.out.println("adding mango in both");
+		System.out.println("guava");
 	}
 
 }
