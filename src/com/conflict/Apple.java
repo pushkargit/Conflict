@@ -4,5 +4,6 @@ public class Apple{
         System.out.println("apple");
         System.out.println("adding mango in both");
         System.out.println("guava");
+        System.out.println("adding mango");
     }
 }
